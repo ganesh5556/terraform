@@ -1,5 +1,0 @@
-vpc_cidr = "172.0.0.0/16"
-subnet_cidr = "172.0.1.0/24"
-aws_region = "ap-south-1"
-key_name = "mykeypair"
-instance_type = "t2.micro"
